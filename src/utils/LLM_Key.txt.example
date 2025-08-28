@@ -1,0 +1,13 @@
+# OpenAI API Key
+# Replace this with your actual API key
+# Format: sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 
+# IMPORTANT: 
+# 1. Never commit this file to version control
+# 2. Keep your API key secure and private
+# 3. Add LLM_Key.txt to .gitignore
+# 4. Use different keys for development and production
+# 5. This file should be in the same directory as config.py (src/utils/)
+# 6. Rename this file to LLM_Key.txt and add your actual API key
+
+sk-your-actual-openai-api-key-here
